@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+<style type="text/css">
+	.Chtscss ul{
+		background:#46A3FF;
+	}
+	.Chtscss li:hover{
+		background:#656595;
+		
+	 	
+	}
+	.Chtscss ul li a:hover{
+		color:#FFF;
+	}
+	.Chtscss-menu>li>a:hover{
+		color:#CCC;
+	}
+	.Chtscss p{
+		font-family:華康行書體;
+	}
+</style>
